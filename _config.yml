@@ -4,6 +4,15 @@ plugins:
 
 remote_theme: mmistakes/minimal-mistakes
 
+title: Ruby Habits
+logo: /assets/images/logo.png
+
+header:
+  image: /assets/images/banner_transparent.png
+  image_description: "Ruby Habits Logo"
+
+minimal_mistakes_skin: "sunrise"
 
 exclude:
   - README.md
+  - LICENSE

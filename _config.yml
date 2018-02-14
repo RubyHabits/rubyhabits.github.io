@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-avatar
+  - jekyll-remote-theme
+
+remote_theme: mmistakes/minimal-mistakes
+
+
+exclude:
+  - README.md

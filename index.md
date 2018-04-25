@@ -12,9 +12,9 @@ We're a fun-loving study group with a desire to learn. It's not only Ruby relate
 
 Our next meetups are:
 
-- March 28th
-- April 11th
-- April 25th
+- May 9th
+- May 23rd
+- June 6th
 
 We'll meet at **18:30** at Wikimedia Austria's office:
 

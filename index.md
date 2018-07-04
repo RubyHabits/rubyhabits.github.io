@@ -14,7 +14,8 @@ Our next meetups are:
 
 - June 20th
 - July 4th
-- July 18th
+- ~~July 18th~~ (Your buddies are out of town this week!)
+- August 1st
 
 We'll meet at **18:30** at Wikimedia Austria's office:
 

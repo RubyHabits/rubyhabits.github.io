@@ -12,10 +12,8 @@ We're a fun-loving study group with a desire to learn. It's not only Ruby relate
 
 Our next meetups are:
 
-- June 20th
-- July 4th
-- ~~July 18th~~ (Your buddies are out of town this week!)
-- August 1st
+- August 15th
+- August 29th
 
 We'll meet at **18:30** at Wikimedia Austria's office:
 

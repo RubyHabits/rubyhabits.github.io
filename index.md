@@ -12,7 +12,9 @@ We're a fun-loving study group with a desire to learn. It's not only Ruby relate
 
 Our next meetups are:
 
-- August 29th
+- October 10th
+- October 24th
+- November 4th
 
 We'll meet at **18:30** at Wikimedia Austria's office:
 

@@ -2,7 +2,9 @@ plugins:
   - jekyll-avatar
   - jekyll-remote-theme
 
-remote_theme: mmistakes/minimal-mistakes
+## try to fix (auto-) update errors (lock in version), see
+##   https://twitter.com/mmistakes/status/1048190447976423425
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
 
 title: Ruby Habits
 logo: /assets/images/logo.png
